@@ -4,7 +4,7 @@
 ---
 
 ### :woman_technologist: About Me :
-- 🔭 I’m currently working on Crustea Indonesia as a AIOT/Software Engineer
+- 🔭 I’m currently working at Crustea Indonesia as a AIOT/Software Engineer
 - 🌱 I’m currently learning Fullstack-development and Data Science
 <!--
 - 👯 I’m looking to collaborate on ...
