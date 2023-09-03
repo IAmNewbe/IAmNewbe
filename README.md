@@ -1,4 +1,4 @@
-### Hi there 👋,
+### Hi there 👋
 ## My name is Ahmad Ahlul Hikam
 ### Undergraduate Electrical Engineering at Sepuluh Nopember Institute of Technology
 ---
