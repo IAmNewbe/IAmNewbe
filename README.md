@@ -3,7 +3,7 @@
 ### Undergraduate Electrical Engineering at Sepuluh Nopember Institute of Technology
 ---
 
-### :woman_technologist: About Me :
+### About Me :
 - 🔭 I’m currently working at Crustea Indonesia as a AIOT/Software Engineer
 - 🌱 I’m currently learning Fullstack-development and Data Science
 <!--
@@ -16,7 +16,7 @@
 -->
 ![](https://komarev.com/ghpvc/?username=IAmNewbe&style=flat-square)
 ---
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
