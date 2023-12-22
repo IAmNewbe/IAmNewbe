@@ -46,11 +46,15 @@
 <img align="center" src="https://streak-stats.demolab.com/?user=IAmNewbe&theme=transparent&card_width=358" />
 </a>
 -->
+<a href="https://github.com/IAmNewbe">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IAmNewbe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=IAmNewbe&theme=transparent&card_width=358" />
+</a>
 
-
+<!--
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IAmNewbe&theme=dark&background=000000)](https://git.io/streak-stats)
 ---
-<!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmNewbe&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
