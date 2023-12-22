@@ -35,17 +35,22 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>
+  <img width ='40px' height='40px' **alt='Laravel' title='Laravel' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg'>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspi" **alt="Raspi" width="40" height="40"/>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 </div>
 <br>
+<!--
 <a href="https://github.com/IAmNewbe">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=IAmNewbe&count_private=true&show_icons=true&theme=transparent"/>
 <img align="center" src="https://streak-stats.demolab.com/?user=IAmNewbe&theme=transparent&card_width=358" />
 </a>
+-->
 
-<!--
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IAmNewbe&theme=dark&background=000000)](https://git.io/streak-stats)
 ---
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmNewbe&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
