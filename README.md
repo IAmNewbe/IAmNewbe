@@ -37,6 +37,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 </div>
+<br>
+<a href="https://github.com/IAmNewbe">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=IAmNewbe&count_private=true&show_icons=true&theme=transparent"/>
+<img align="center" src="https://streak-stats.demolab.com/?user=IAmNewbe&theme=transparent&card_width=358" />
+</a>
 
 <!--
 ### :fire: My Stats :
