@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## My name is Ahmad Ahlul Hikam
-### Undergraduate Electrical Engineering at Sepuluh Nopember Institute of Technology
+### Furina de Fontaine is my pic
 ---
 
 ### About Me :
