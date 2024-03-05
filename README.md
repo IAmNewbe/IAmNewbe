@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## My name is Ahmad Ahlul Hikam
-### Furina de Fontaine is my pic
+### Undergraduate Student
 ---
 
 ### About Me :
