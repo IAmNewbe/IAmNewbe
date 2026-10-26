@@ -4,7 +4,7 @@
 ---
 
 ### About Me :
-- 🔭 I’m currently working at Crustea Indonesia as a AIOT/Software Engineer
+- 🔭 I’m currently working at Huawei Tech Invesment as Optical Network Engineer
 - 🌱 I’m currently learning Fullstack-development and Data Science
 <!--
 - 👯 I’m looking to collaborate on ...
